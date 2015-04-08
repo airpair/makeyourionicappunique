@@ -69,6 +69,6 @@ You have to change the id attribute of widget tag to change your app id and chan
 
 But remember, changing your id after publish your app on stores can cause headaches as mentioned at beginning of this post.
 
-Hope it helps and thank for reading !
+Hope it helps and thanks for reading !
 
 
